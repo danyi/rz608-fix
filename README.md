@@ -15,6 +15,8 @@ sudo udevadm control -R
 
 ## From source
 ```
+git clone https://github.com/ShadowBlip/rz608-fix.git
+cd rz608-fix
 sudo make install
 ```
 
